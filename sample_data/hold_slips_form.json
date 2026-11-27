@@ -1,0 +1,24 @@
+{
+  "key": "RS-1101",
+  "cohort": "东馆架",
+  "day": 2,
+  "received": 3,
+  "revision": 1,
+  "result_day": 5,
+  "outcome": 69.31429,
+  "observed": true,
+  "form": {
+    "短信回执": {
+      "message_lag_minutes": 660,
+      "walk_seconds": 2400
+    },
+    "读者预约": {
+      "iso_weekday": 6,
+      "extension_tallies": 1
+    },
+    "留架巡查": {
+      "pending_accounts": 15,
+      "shelf_age_minutes": 1500
+    }
+  }
+}
